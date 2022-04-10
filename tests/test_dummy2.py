@@ -8,4 +8,4 @@ def test_dummy2():
     assert 4 == 4
 
 def test_dummy3():
-    assert 1 == 1
+    assert 1 == 2
